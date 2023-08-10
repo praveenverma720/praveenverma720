@@ -21,10 +21,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/120KBkHv8GwA3m2Yv574C9MfNjVIvBeJJ/view?usp=sharing](https://drive.google.com/file/d/120KBkHv8GwA3m2Yv574C9MfNjVIvBeJJ/view?usp=sharing)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/praveen_tnatan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="praveen_tnatan" height="30" width="40" /></a>
